@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591208186704.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "EC22368C",
+    "lastKnownWriteTime" : 2314885530450147384,
+    "last_content_update" : 1591208186704,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "DD29531F",
+        "caption" : "economics",
+        "contentUrl" : "grid_resource/gridviewer.html?env=package%3Aggplot2&obj=economics&cache_key=DD29531F",
+        "displayedObservations" : 574,
+        "environment" : "package:ggplot2",
+        "expression" : "economics",
+        "object" : "economics",
+        "preview" : 0,
+        "totalObservations" : 574,
+        "variables" : 6
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
